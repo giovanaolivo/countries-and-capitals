@@ -31,7 +31,7 @@ O objetivo é praticar Laravel criando um jogo de perguntas e respostas sobre ca
 
 ## 🚀 Recursos Utilizados
 
-- **PHP** >= 8.2
+- **PHP** 8.2
 - **Laravel** 12
 - **Composer**
 - **MySQL**
