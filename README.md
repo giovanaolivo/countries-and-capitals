@@ -7,8 +7,6 @@ O objetivo é praticar Laravel criando um jogo de perguntas e respostas sobre ca
 
 ## ⚙️ Como Funciona o Quiz
 
-O **Countries & Capitals Quiz** é um jogo de perguntas e respostas sobre capitais do mundo.  
-
 1. **Definir número de perguntas**  
    - Na tela inicial, o usuário digita quantas questões deseja responder.  
    - Ao clicar em **"Iniciar Questionário"**, o sistema gera aleatoriamente as perguntas a partir de um banco de dados de países e capitais.
