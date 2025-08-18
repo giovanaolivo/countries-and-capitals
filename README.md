@@ -26,7 +26,7 @@ O objetivo é praticar Laravel criando um jogo de perguntas e respostas sobre ca
      - **Número de acertos**
      - **Número de erros**
      - **Percentual de aproveitamento**
-   - Um botão **"Voltar ao Início"** permite reiniciar o jogo.
+   - Um botão **"Voltar ao Início"** que permite reiniciar o jogo.
 
 
 ## 🚀 Recursos Utilizados
